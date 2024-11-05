@@ -2,7 +2,7 @@
 
 Это мое партфолио. <br>
 [Tableau](https://public.tableau.com/app/profile/roman2446/vizzes) <br>
-@tarantay <br>
+[@tarantay](https://t.me/tarantay) <br>
 
 ## Описания проектов в этом репозиторие:
 
