@@ -1,9 +1,6 @@
-import pandas as pd
-import math as mth
-import matplotlib.pyplot as plt
-import seaborn as sns
-from datetime import timedelta, datetime
-from scipy import stats as st
-from sklearn.preprocessing import StandardScaler
-from scipy.cluster.hierarchy import dendrogram, linkage
-from sklearn.cluster import KMeans
+# Описания проектов в этой папке:
+
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Исследование рынка общепита в Москве](food_market_analysis) | Выбрано место для открытия новой кофейни | *pandas, seaborn, matplotlib* |
+| [Тарифа для телеком компании](telecom) | Проанализинованно поведение клиентов и найден оптимальный тариф| *pandas, numpy, matplotlib, scipy* |
