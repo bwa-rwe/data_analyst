@@ -8,3 +8,10 @@
 конверсии по группам, а затем посчитал статистическую значимость различий конверсий
 и средних чеков по сырым и очищенным данным. На основании анализа мной было
 принято решение о нецелесообразности дальнейшего проведения теста.
+
+
+import pandas as pd
+import datetime as dt
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.stats as stats
