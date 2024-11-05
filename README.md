@@ -1,8 +1,8 @@
 # Мои pet-проекты анализа данных.
 
-Это мое партфолио.
-[Tableau](https://public.tableau.com/app/profile/roman2446/vizzes)
-@tarantay
+Это мое партфолио. <br>
+[Tableau](https://public.tableau.com/app/profile/roman2446/vizzes) <br>
+@tarantay <br>
 
 ## Описания проектов в этом репозиторие:
 
